@@ -1,4 +1,4 @@
-// TrampaSimple.h
+// Fill out your copyright notice in the Description page of Project Settings.
 #pragma once
 
 #include "CoreMinimal.h"
@@ -9,7 +9,7 @@ UCLASS()
 class BOMBERMAN_012025_API ATrampaSimple : public ATrampaComponent
 {
     GENERATED_BODY()
-    
+
 public:
     ATrampaSimple();
 

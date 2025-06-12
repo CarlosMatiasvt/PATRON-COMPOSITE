@@ -1,3 +1,4 @@
+// Fill out your copyright notice in the Description page of Project Settings.
 // TrampaCompuesta.h
 #pragma once
 
@@ -9,7 +10,7 @@ UCLASS()
 class BOMBERMAN_012025_API ATrampaCompuesta : public ATrampaComponent
 {
     GENERATED_BODY()
-    
+
 public:
     void AgregarTrampa(ATrampaComponent* Trampa);
 
